@@ -1,4 +1,4 @@
-Battleship with framework of Qt on the C++
+Classic Battleship game developed using C++ and the Qt Framework 
 
 ## Screenshots
 
